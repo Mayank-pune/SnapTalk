@@ -5,4 +5,4 @@
  2: Direct Messages\
  3: Authentication(Lucia Auth)\
  4: File Uploads\
- 5: Notification Updates without delay\
+ 5: Notification Updates without delay
